@@ -1,0 +1,16 @@
+PODS:
+  - WZDemo2018 (0.0.1)
+
+DEPENDENCIES:
+  - WZDemo2018
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - WZDemo2018
+
+SPEC CHECKSUMS:
+  WZDemo2018: 188c364b05f9be90269d2946ec1cd533bc830bf3
+
+PODFILE CHECKSUM: 02bb4e9c10ab6ed89cc7de15c7fcc9af96387543
+
+COCOAPODS: 1.5.3
